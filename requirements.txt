@@ -1,0 +1,18 @@
+# Web API
+Flask
+requests
+
+# Vision / OCR
+opencv-python
+numpy
+Pillow
+easyocr
+ultralytics
+torch
+torchvision
+torchaudio
+
+# Google Drive / Sheets integration
+google-auth
+google-auth-oauthlib
+google-api-python-client
