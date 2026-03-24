@@ -1,0 +1,61 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.ipynb_checkpoints/
+
+# Local environment/config files
+.env
+.env.*
+*.local
+
+# Project-generated data
+SpeedCamHub/captures/
+output/
+
+# Local Google API credentials/tokens
+SpeedCamHub/credentials.json
+SpeedCamHub/token.json
+
+# Local ML assets
+SpeedCamHub/models/
+*.pt
+*.onnx
+*.engine
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Arduino / embedded build artifacts
+*.bin
+*.elf
+*.hex
+*.map
+*.obj
+*.o
+*.out
