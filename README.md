@@ -434,4 +434,4 @@ The current project layout contains hardcoded network identifiers and local cred
 
 ## License
 
-No license file is currently included in this repository.
+Released under the [MIT License](LICENSE).

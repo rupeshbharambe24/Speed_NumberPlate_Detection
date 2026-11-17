@@ -4,8 +4,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // ================== WIFI / HUB ==================
-const char* WIFI_SSID = "REDACTED";
-const char* WIFI_PASS = "REDACTED";
+const char* WIFI_SSID = "YOUR_WIFI_SSID";   // set before flashing
+const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";  // never commit real credentials
 
 const char* LAPTOP_IP = "192.168.10.5";
 const int   LAPTOP_PORT = 5000;
